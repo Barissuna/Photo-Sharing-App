@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491791645292",
+    "project_id": "photosharing-681e9",
+    "storage_bucket": "photosharing-681e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491791645292:android:6b84bab988fa5b7e9a3649",
+        "android_client_info": {
+          "package_name": "com.barissuna.photosharingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSF5mJ6jvPf4xnyCb44_eHtVjb1xZydn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
